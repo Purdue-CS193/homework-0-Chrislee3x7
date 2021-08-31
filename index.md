@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 _This should be italic_
 
-'This should look like code'
+`This should look like code`
 
 ### Markdown
 
